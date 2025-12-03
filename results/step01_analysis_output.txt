@@ -1,0 +1,9 @@
+=== Output Log for step01_analysis ===
+Loading data from: C:\Users\12148\Desktop\HW\financialmath\BTC_RL_Hedging\data\BTC_5m.csv
+Loaded 35218 rows.
+------------------------------
+Mean: -0.00000964
+Std:  0.00134106
+Skew: -5.6779
+Kurt: 502.7989
+Saved processed data to C:\Users\12148\Desktop\HW\financialmath\BTC_RL_Hedging\data\btc_5min_preprocessed.parquet

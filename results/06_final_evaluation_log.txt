@@ -1,0 +1,8 @@
+=== Execution Log: 06_final_evaluation ===
+Generating NEW Out-of-Sample test set (500 paths)...
+Test Set Shape: (500, 4000)
+Backtesting strategies on 500 episodes...
+
+=== Final Results ===
+Risk Reduction (RL vs Unhedged): 0.00%
+RL Std Dev: 408.17 | BS Std Dev: 192.22

@@ -1,0 +1,10 @@
+=== Execution Log: 01_data_analysis ===
+Reading dataset from: C:\Users\Galio\Desktop\take_home\data\BTC_5m.csv
+Successfully loaded 35218 records.
+----------------------------------------
+Statistics for 5-min Log Returns:
+Mean:      -0.00000964
+Std Dev:   0.00134106
+Skewness:  -5.6779
+Kurtosis:  502.7989 (Excess)
+Preprocessed data saved to: C:\Users\Galio\Desktop\take_home\data\btc_5min_preprocessed.parquet

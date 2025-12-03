@@ -1,0 +1,7 @@
+=== Output Log for step04_mm_baseline ===
+Parameters loaded.
+Simulating 50 paths for 14 days...
+Simulation data saved to C:\Users\12148\Desktop\HW\financialmath\BTC_RL_Hedging\data\simulated_paths.npz
+Running Baseline MM Strategy...
+Mean Final PnL: $191931.10
+Win Rate:       100.0%

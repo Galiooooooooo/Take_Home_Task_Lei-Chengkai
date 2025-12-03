@@ -1,0 +1,17 @@
+=== Execution Log: 02_calibration ===
+
+>>> Phase 1: Calibrating QED Diffusion Model...
+QED Parameters: Theta=0.1000, Kappa=0.5000, g=0.1000, Sigma=0.8000
+Generating QED fit check...
+
+>>> Phase 2: Calibrating Hawkes Process (Jump Dynamics)...
+Jump Detection Threshold (4-sigma): 0.005364
+Counted Up-Jumps: 91
+Counted Down-Jumps: 67
+Hawkes Params: [ 144.42257124  103.86060211 1625.32040556 1665.88402156 3405.41865686]
+Branching Ratio (+): 0.4773
+Branching Ratio (-): 0.4892
+
+>>> Phase 3: Validating via Simulation...
+
+Calibration complete. Model saved to C:\Users\Galio\Desktop\take_home\models\calibrated_market_model.pkl

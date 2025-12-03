@@ -1,0 +1,24 @@
+=== Output Log for step02_calibration ===
+
+>>> [Part 1] Calibrating QED Diffusion Model...
+QED Params: Theta=-0.0300, Kappa=0.6148, g=0.2038, Sigma=0.3867
+
+>>> [Part 2] Detecting Jumps (Volatility-based)...
+5-min Vol: 0.001341, Threshold (4x): 0.005364
+Detected Up-Jumps: 91
+Detected Down-Jumps: 67
+
+>>> [Part 3] Calibrating Hawkes Process...
+Hawkes Params:
+  Baseline (+/-): 144.47 / 103.89
+  Alpha (+/-):    1626.60 / 1667.67
+  Beta:           3410.40
+  Branching (+):  0.4770 (< 1.0)
+  Branching (-):  0.4890 (< 1.0)
+
+>>> [Part 4] Running Simulation Diagnostics...
+
+Saved calibrated parameters to C:\Users\12148\Desktop\HW\financialmath\BTC_RL_Hedging\models\calibrated_params.pkl
+
+>>> [Part 6] Generating Fallback Data (GBM)...
+Saved GBM fallback data to C:\Users\12148\Desktop\HW\financialmath\BTC_RL_Hedging\data\sim_paths.npy (Shape: (100, 4032))

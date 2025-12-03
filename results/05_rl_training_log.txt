@@ -1,0 +1,5 @@
+=== Execution Log: 05_rl_training ===
+Loaded training data: (50, 4032)
+Initializing PPO on device: auto
+Starting training for 100000 steps...
+Model saved to C:\Users\Galio\Desktop\take_home\models\ppo_agent\best_model.zip

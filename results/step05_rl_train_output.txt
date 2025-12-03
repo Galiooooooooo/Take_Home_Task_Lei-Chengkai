@@ -1,0 +1,6 @@
+=== Output Log for step05_rl_train ===
+
+=== Starting Evaluation Phase (Single Episode Check) ===
+Loaded simulation data: (50, 4032)
+Loading model from: C:\Users\12148\Desktop\HW\financialmath\BTC_RL_Hedging\models\PPO\ppo_hedging.zip
+Evaluation Complete. Agent MSE vs BS Delta: 0.000472
