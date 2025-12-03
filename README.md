@@ -77,6 +77,7 @@ python main/rl_training.py
 Perform Out-of-Sample backtesting comparing Unhedged, Baseline, and RL strategies.
 ```bash
 python main/rl_evaluation.py
+```
 
 ## 📓 Usage: Notebook Mode (Interactive Research)
 
