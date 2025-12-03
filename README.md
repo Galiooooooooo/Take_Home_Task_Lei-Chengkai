@@ -34,7 +34,7 @@ project_root/
 ├── notebooks/           # Interactive Jupyter Notebooks (for experimentation)
 ├── results/             # Output Plots, Logs, and Metrics
 └── requirements.txt     # Python Dependencies
-
+```
 ## ⚡ Installation
 
 1. **Clone the repository:**
